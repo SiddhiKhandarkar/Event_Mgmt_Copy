@@ -293,3 +293,7 @@ I can help you with:
 ✔ Complete report + architecture diagram
 
 Just tell me 👍
+
+
+
+to install nodemon = ubuntu@ip-172-31-32-235:~/Event_Mgmt_Copy/backend$ sudo npm install -g nodemon
